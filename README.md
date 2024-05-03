@@ -10,5 +10,5 @@ Home Page
 Candidate List
 ![Screenshot (119)](https://github.com/sanyamk23/resume_uploader/assets/124618873/1bceaa33-19ca-491a-9027-e71847ee3b5e)
 
-Canddiate Profile
+Candidate Profile
 ![Screenshot (120)](https://github.com/sanyamk23/resume_uploader/assets/124618873/7469af3b-4429-48a0-b11d-eca643050a8e)
