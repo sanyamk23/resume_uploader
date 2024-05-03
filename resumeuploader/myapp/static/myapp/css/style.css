@@ -1,0 +1,18 @@
+#id_gender, #id_job_city{
+    list-style-type: none;
+}
+   
+#id_gender > li {
+    padding-left: 10px;
+}
+   
+#id_job_city > li {
+    padding-left: 10px;
+}
+
+.centered {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
